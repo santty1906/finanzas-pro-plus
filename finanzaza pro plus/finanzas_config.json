@@ -1,0 +1,8 @@
+{
+  "saldo_inicial": 0.0,
+  "objetivo_ahorro_pct": 10.0,
+  "colchon_meses_objetivo": 3.0,
+  "tope_categoria": {
+    "marketing": 15.0
+  }
+}
