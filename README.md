@@ -36,26 +36,26 @@ part of the **Samsung Innovation Campus** program.
 
 ---
 
-##⚙️ Installation & Execution
+## ⚙️ Installation & Execution
 1. Clone the repository
-git clone https://github.com/santty1906/finanzas-pro-plus.git
-cd finanzas-pro-plus
+- git clone https://github.com/santty1906/finanzas-pro-plus.git
+- cd finanzas-pro-plus
 2. Create a virtual environment
 
 Windows (CMD):
 
-python -m venv venv
-venv\Scripts\activate
+- python -m venv venv
+- venv\Scripts\activate
 
 Git Bash / macOS / Linux:
 
-python -m venv venv
-source venv/Scripts/activate
+- python -m venv venv
+- source venv/Scripts/activate
 3. Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 If the file doesn’t exist yet, install manually:
 
-pip install pandas matplotlib
+- pip install pandas matplotlib
 4. Run the application
-python finanzas_pro_plus.py
+- python finanzas_pro_plus.py
