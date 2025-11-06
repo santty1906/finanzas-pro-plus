@@ -36,9 +36,9 @@ part of the **Samsung Innovation Campus** program.
 
 ---
 
-## ⚙️ Instalación y Ejecución
+## ⚙️ Installation & Execution
 
-### 1. Clonar el repositorio
+### 1. Clone the repository
 ```bash
 git clone https://github.com/santty1906/finanzas-pro-plus.git
 cd finanzas-pro-plus
