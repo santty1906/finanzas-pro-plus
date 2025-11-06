@@ -33,12 +33,3 @@ It is designed as an **educational tool** or **prototype** for basic **personal 
 ## 👥 Author
 Project developed and organized by the team **IA’m Your Father**,  
 part of the **Samsung Innovation Campus** program.
-
----
-
-## ⚙️ Installation & Execution
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/santty1906/finanzas-pro-plus.git
-cd finanzas-pro-plus
