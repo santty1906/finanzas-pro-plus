@@ -33,3 +33,30 @@ It is designed as an **educational tool** or **prototype** for basic **personal 
 ## 👥 Author
 Project developed and organized by the team **IA’m Your Father**,  
 part of the **Samsung Innovation Campus** program.
+
+---
+
+## 🚀 Installation and Project Execution
+
+Follow these steps to clone the repository, create a virtual environment, and start the application:
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/santty1906/finanzas-pro-plus.git
+cd finanzas-pro-plus
+
+# 2️⃣ Create the virtual environment
+python -m venv venv
+
+# 3️⃣ Activate the virtual environment (Git Bash)
+source venv/Scripts/activate
+
+# 4️⃣ Install the dependencies
+pip install -r requirements.txt
+
+# 5️⃣ Go to the main project folder
+cd "finanzas pro plus"
+
+# 6️⃣ Run the application
+python finanzas_pro_plus.py
+
